@@ -1,10 +1,14 @@
 \# Mi primera pagina web
+
 Proyecto realizado para aprender git y githubnbbbbb
 
 ## Tecnologías
--HTML
+
+\-HTML
 -Git
 -GitHub
 
-##AÑAÑIA 
+
+
+\##AÑAÑIA
 
